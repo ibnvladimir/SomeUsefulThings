@@ -1,0 +1,4 @@
+browser.tabs.closeWindowWithLastTab
+browser.cache.disk.enable
+browser.uidensity //высота вкладки
+full-screen-api.warning.timeout
