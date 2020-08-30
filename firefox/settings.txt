@@ -1,4 +1,5 @@
-browser.tabs.closeWindowWithLastTab
-browser.cache.disk.enable
+browser.tabs.closeWindowWithLastTab //не закрывает браузер при закрытии последней вкладки
+browser.cache.disk.enable //отменяет кэширование
 browser.uidensity //высота вкладки
-full-screen-api.warning.timeout
+full-screen-api.warning.timeout  //показ сообщения о переходе в полноэкранный режим
+browser.newtabpage.activity-stream.showSponsored //удаляет рекламу в новых вкладках
