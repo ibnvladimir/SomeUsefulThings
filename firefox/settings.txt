@@ -1,3 +1,5 @@
+about:config
+
 browser.tabs.closeWindowWithLastTab //не закрывает браузер при закрытии последней вкладки
 browser.cache.disk.enable //отменяет кэширование
 browser.uidensity //высота вкладки
